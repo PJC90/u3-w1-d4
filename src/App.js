@@ -18,7 +18,7 @@ function App() {
       <CustomNavbar addText="Mondadori" />
       <AdditionalContentExample />
       {/* <SingleBook book={h[1]} /> */}
-      <BookList manyBooks={r} />
+      <BookList manyBooks={h} />
       <MyFooter />
     </div>
   )
